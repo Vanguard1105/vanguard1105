@@ -105,5 +105,8 @@ Curiosity, high goal-orientation, passionate working, startup mindset
 <!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=prettyblueberry&show_icons=true&locale=en&layout=compact" alt="prettyblueberry" /></p> -->
 
 <!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=prettyblueberry&show_icons=true&locale=en" alt="prettyblueberry" /></p> -->
-
+<p align="center">
+<img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="e" style="max-width: 100%;">
+</p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vanguard1105&" alt="vanguard" /></p>
+
